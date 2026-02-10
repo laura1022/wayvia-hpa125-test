@@ -1,0 +1,25 @@
+# robots.txt for Wayvia HPA125 Test Page
+# Allow all crawlers including AI bots
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://wayvia-hpa125-test.vercel.app/sitemap.xml
