@@ -9,5 +9,12 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/go/amazon",
+      "destination": "https://gethatch.com/wtbonline/merch/9892/go?utm_source=https%3A%2F%2Fduckduckgo.com%2F&utm_medium=organic&tag=psuni-03-us-52759-20&landing_page=https%3A%2F%2Fwww.honeywellpluggedin.com%2F&core_id=102369760&affiliate_id=52759&prod_id=1610156804&region=US&ascsubtag=698209f041e5b0245379d99d",
+      "statusCode": 302
+    }
   ]
 }
